@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Manonavaneethan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Data analytics
-- 📫 Reach me by message
-
-<!---
-Manonavaneethan M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a proficient Data Analyst specializing in transforming raw data into actionable insights. My expertise includes managing databases and writing complex queries using SQL, designing and developing interactive dashboards and visualizations with Power BI, and performing data manipulation and visualization using Python libraries like pandas, NumPy, matplotlib, and seaborn. Additionally, I have experience in developing applications with Java and integrating data analysis processes. I am knowledgeable in applying machine learning algorithms for predictive modeling, classification, and clustering. Furthermore, I have skills in web development using HTML, CSS, and JavaScript, allowing me to create dynamic and responsive web applications. With a strong foundation in data cleaning, transformation, and visualization, I excel at creating comprehensive reports and dashboards that support data-driven decision-making. I am passionate about leveraging data to drive strategic decisions and enhance organizational performance.
